@@ -1,5 +1,5 @@
-* {
-    background-color:rgb(248, 51, 90);
+#bg {
+    background-image: linear-gradient(rgb(228, 37, 37), rgb(0, 153, 255));
 }
 
 #title {
@@ -40,4 +40,9 @@ h1 {
 .right-aligned {
     text-align: right;
     padding-right: 40px;
+}
+
+.profile-img {
+    height: 200px;
+    width: 200px;
 }
