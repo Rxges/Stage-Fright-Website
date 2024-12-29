@@ -25,7 +25,6 @@
 
 h1 {
     text-align: center;
-    font-size: x-large;
 }
 
 .footer {
@@ -38,11 +37,29 @@ h1 {
 }
 
 .right-aligned {
-    text-align: right;
-    padding-right: 40px;
+    margin-left: auto;
 }
 
 .profile-img {
     height: 200px;
     width: 200px;
+}
+
+.row-format {
+    display: flex;
+    flex-direction: row;
+}
+
+.right-img {
+    margin-left: auto;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+hr {
+    height: 2px;  
+    background-color: black;  
+    border: none;
 }
