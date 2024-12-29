@@ -6,10 +6,10 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 7%;
-    padding-bottom: 4%;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-top: 52px;
+    padding-bottom: 35px;
+    padding-left: 40px;
+    padding-right: 40px;
     border-style: solid;
     border-radius: 15%;
     border-color: black;
@@ -62,4 +62,8 @@ hr {
     height: 2px;  
     background-color: black;  
     border: none;
+}
+
+#about-list {
+    margin-right: 40px;
 }
