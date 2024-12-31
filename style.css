@@ -43,6 +43,8 @@ h1 {
 .profile-img {
     height: 200px;
     width: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .row-format {
@@ -56,6 +58,8 @@ h1 {
 
 h2 {
     font-weight: normal;
+    margin: 0;
+    padding: 0;
 }
 
 hr {
@@ -67,3 +71,10 @@ hr {
 #about-list {
     margin-right: 40px;
 }
+
+p {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 5px;
+}
+
